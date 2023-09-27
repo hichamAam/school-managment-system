@@ -1,0 +1,2 @@
+# Specify that files with the ".json" extension should use LF line endings
+*.json text eol=lf
